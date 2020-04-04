@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>0394.jpeg</filename>
+	<path>⁨/home/lukeparker/master/tensorflow⁩/⁨workspace⁩/⁨fingertip/images⁩/train/0394.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fingertip</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1852</xmin>
+			<ymin>1468</ymin>
+			<xmax>2252</xmax>
+			<ymax>1800</ymax>
+		</bndbox>
+	</object>
+</annotation>
